@@ -15,7 +15,7 @@
 </h1>
 </div>
 
-<div>
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <h2>
     Web-developer. Work on medicine portal: create and manage web-pages based on Bitrix.
