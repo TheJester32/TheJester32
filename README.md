@@ -24,7 +24,9 @@
 
 <div>
   <h2>Some of my projects:</h2>
-   <p>https://con-med.ru/new-smart-control/</p>
+   <p>
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+     https://con-med.ru/new-smart-control/</p>
   <p>https://con-med.ru/tereza-med/</p>
   <p>https://con-med.ru/med-expert/</p>
   <p>https://con-med.ru/workshop-in-dermatology/</p>
