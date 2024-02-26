@@ -9,7 +9,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=TheJester32&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheJester32&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **TheJester32/TheJester32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
