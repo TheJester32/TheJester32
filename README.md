@@ -39,6 +39,9 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk1OTJ1MTl2aWplOWp1MDN5eXR1bzJtczZ4N254YTR6eDR6dzNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dndiy37yzJjpcn4DfF/giphy.gif" width="20px"/>
     https://con-med.ru/workshop-in-dermatology/</p>
   <p>
+       <p>
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk1OTJ1MTl2aWplOWp1MDN5eXR1bzJtczZ4N254YTR6eDR6dzNxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dndiy37yzJjpcn4DfF/giphy.gif" width="20px"/>
+     https://con-med.ru/maget/</p>
 </div>
 <div>
   <h2>My React pet-projects:</h2>
